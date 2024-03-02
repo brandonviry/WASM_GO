@@ -50,7 +50,7 @@ Ce fichier est une bibliothèque JavaScript fournie par Go pour faciliter l'exé
 
 ### Méthode 2
 
-Directement avec se lien : [wasm_go.vercel.app](wasm_go.vercel.app)
+Directement avec se lien : [wasm-go.vercel.app](wasm_go.vercel.app)
 
 ## Dépendances
 
